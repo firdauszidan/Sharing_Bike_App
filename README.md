@@ -6,4 +6,6 @@ conda activate main-ds\
 pip install numpy pandas matplotlib seaborn jupyter streamlit
 ```
 ## Run Streamlit App
+```
 streamlit run streamlitdashboard_bike.py
+```
