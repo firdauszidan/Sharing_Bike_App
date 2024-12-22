@@ -7,5 +7,5 @@ pip install -r requirements.txt
 ```
 ## Run Streamlit App
 ```
-streamlit run streamlitdashboard_bike.py
+streamlit run streamlitdashboard_sharebike.py
 ```
